@@ -14,7 +14,9 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@exe/shared-util-core": ["libs/shared/util-core/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
