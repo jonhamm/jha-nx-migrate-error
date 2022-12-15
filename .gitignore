@@ -8,6 +8,10 @@ tmp
 # dependencies
 node_modules
 
+# nx
+.nxcache
+.nxproject
+
 # IDEs and editors
 /.idea
 .project
